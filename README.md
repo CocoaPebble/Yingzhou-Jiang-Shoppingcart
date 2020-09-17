@@ -5,7 +5,7 @@
 ### Requirements
 ---
 
-- [x] node environment
+- [] node environment
 - [x] Using npm to manage the project (learn package.json)
 - [x] Using create-react-app to create project
 - [x] Webpack for automation (manually) (optional)
